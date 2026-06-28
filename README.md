@@ -41,8 +41,6 @@ Smart accident detection and emergency response system using ESP32, AI-based sen
 ### 🏥 VaxSafe LifeLink
 IoT-based healthcare monitoring and emergency alert system for improving patient safety.
 
-### 🩺 Bio-Shield Monitor
-Health monitoring dashboard with real-time data visualization and emergency notifications.
 
 ## 📊 GitHub Stats
 
